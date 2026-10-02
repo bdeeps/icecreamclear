@@ -1,0 +1,812 @@
+{
+  "title": "The history of ice cream",
+  "tagline": "2,400 years from desert ice houses to a factory barrel that freezes a scoop in thirty seconds.",
+  "intro": "For most of history a frozen sweet meant stored winter ice. Then cooks learned that salt makes ice far colder than ice, cold enough to freeze sweetened cream in a pot: the method behind both European ice cream and India's kulfi. A hand crank, a factory, a homogeniser and a freezer that never stops turned a royal treat into an everyday one. Much of the popular story (Marco Polo, Nero, Catherine de' Medici) is legend, so this timeline keeps to what was written down.",
+  "eras": [
+    {
+      "id": "ice",
+      "name": "Stored ice and sweet snow",
+      "from": -400,
+      "to": 1550,
+      "color": "#c49bff",
+      "summary": "Winter ice is kept in ice houses and used to chill drinks and sweets. Scholars record that dissolving salts makes water cold."
+    },
+    {
+      "id": "salt",
+      "name": "Salt, ice and the first ice creams",
+      "from": 1550,
+      "to": 1840,
+      "color": "#ffb547",
+      "summary": "Salt mixed with ice makes a bath cold enough to freeze cream. Kulfi, sorbetti and ice cream appear in courts, cookbooks and cafés."
+    },
+    {
+      "id": "machine",
+      "name": "Cranks, factories and freezers",
+      "from": 1840,
+      "to": 1940,
+      "color": "#8ef0ff",
+      "summary": "The hand-cranked freezer, the factory, the homogeniser, the cone and the continuous freezer make ice cream cheap and smooth."
+    },
+    {
+      "id": "modern",
+      "name": "Brands, science and rules",
+      "from": 1940,
+      "to": 2026,
+      "color": "#5ce1a9",
+      "summary": "Indian brands grow, food scientists map the crystals and bubbles, and the law defines what may be called ice cream."
+    }
+  ],
+  "events": [
+    {
+      "year": -400,
+      "date": "c. 400 BCE",
+      "era": "ice",
+      "art": "icehouse",
+      "title": "Ice kept through a desert summer",
+      "who": "Persian builders",
+      "where": "Persia (today Iran)",
+      "country": "Iran",
+      "text": "By about 400 BCE Persians were building yakhchāls, thick-walled domed ice houses. Winter ice was stored in them and used in summer to chill food and sweet drinks, the ancestors of sherbet and faloodeh.",
+      "why": "Before anyone could make cold, frozen treats depended on storing winter ice.",
+      "box": "",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1250,
+      "date": "13th century",
+      "era": "ice",
+      "art": "scroll",
+      "title": "A salt that chills water is written down",
+      "who": "Ibn Abi Usaybi'a",
+      "where": "Syria",
+      "country": "Syria",
+      "text": "The Syrian physician and historian Ibn Abi Usaybi'a described making water very cold by dissolving a salt in it. He credited the method to an earlier writer, Ibn Bakhtawayhi. It is often cited as the earliest written account of cooling with salts.",
+      "why": "It was the first step towards cold that did not come from the weather.",
+      "box": "salt",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1565,
+      "date": "c. 1565",
+      "era": "salt",
+      "art": "person",
+      "title": "A frozen cream for the Medici (attributed)",
+      "who": "Bernardo Buontalenti",
+      "where": "Florence, Italy",
+      "country": "Italy",
+      "text": "The Florentine architect and court designer Bernardo Buontalenti is credited by tradition with serving a frozen cream dessert at the Medici court. The evidence is thin, and the better-known tale that Catherine de' Medici took ice cream to France has no historical support.",
+      "why": "Much early ice cream history is legend. Historians accept only what was written down at the time.",
+      "box": "",
+      "sources": [
+        6,
+        4
+      ]
+    },
+    {
+      "year": 1590,
+      "date": "c. 1590",
+      "era": "salt",
+      "art": "ice",
+      "title": "Saltpetre, mountain ice and the Mughal court",
+      "who": "Abu'l-Fazl, at Akbar's court",
+      "where": "Lahore, Agra and Delhi, Mughal India",
+      "country": "India",
+      "text": "The Ain-i-Akbari, the record of Akbar's reign, describes chilling water by stirring a sealed flask in saltpetre and water, and says snow and ice were carried from the northern mountains to Lahore from about 1586. It does not name kulfi. Tradition and later writers trace kulfi, thick sweetened milk frozen in sealed metal cones, to the Mughal court of the same century.",
+      "why": "Dissolving a salt to make cold is the idea behind every kulfi matka.",
+      "box": "salt",
+      "sources": [
+        3,
+        2
+      ],
+      "key": true
+    },
+    {
+      "year": 1650,
+      "date": "mid 1600s",
+      "era": "salt",
+      "art": "flask",
+      "title": "Salt on ice: the freezing mixture reaches Europe's kitchens",
+      "who": "Cooks and natural philosophers",
+      "where": "Italy, France and England",
+      "country": "Italy",
+      "text": "In the middle and later 1600s the knowledge spread through Europe that salt mixed with ice or snow gets far colder than ice alone. Cooks could now freeze a sweet liquid solid in a metal pot. Water ices came first, and cream was soon added.",
+      "why": "This is the discovery that made true ice cream possible.",
+      "box": "salt",
+      "sources": [
+        4
+      ],
+      "key": true
+    },
+    {
+      "year": 1686,
+      "date": "1686",
+      "era": "salt",
+      "art": "building",
+      "title": "A café in Paris sells ices to the public",
+      "who": "Francesco Procopio dei Coltelli",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "The Sicilian Francesco Procopio opened the Café Procope in Paris and sold ices and sorbets there. Frozen desserts began to move from royal tables to anyone who could pay for a seat in a café.",
+      "why": "Ices became something you could buy, not only something a court kitchen made.",
+      "box": "",
+      "sources": [
+        1,
+        6
+      ]
+    },
+    {
+      "year": 1694,
+      "date": "1692–1694",
+      "era": "salt",
+      "art": "quill",
+      "title": "Sorbetti in print, one of them made with milk",
+      "who": "Antonio Latini",
+      "where": "Naples, Italy",
+      "country": "Italy",
+      "text": "Antonio Latini, a steward in Naples, published Lo scalco alla moderna in two volumes. It gives recipes for sorbetti, including a milk sorbet that many food historians count as the first written ice cream recipe.",
+      "why": "It is among the earliest surviving recipes for a frozen dessert made with milk.",
+      "box": "",
+      "sources": [
+        5,
+        1
+      ],
+      "key": true
+    },
+    {
+      "year": 1718,
+      "date": "1718",
+      "era": "salt",
+      "art": "scroll",
+      "title": "The first ice cream recipe in English",
+      "who": "Mary Eales",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Mrs. Mary Eales's Receipts, published in London, told readers to fill tin pots with sweetened cream, bury them in a pail of ice and salt, and wait. In 1751 Hannah Glasse added an ice cream recipe to her best-selling cookery book.",
+      "why": "Ice and salt in a pail was the home method for the next 130 years.",
+      "box": "salt",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1768,
+      "date": "1768",
+      "era": "salt",
+      "art": "inkpot",
+      "title": "The first book devoted to ices",
+      "who": "M. Emy",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "A confectioner known only as M. Emy published L'Art de bien faire les glaces d'office, a whole book on making ices. He insisted on stirring and scraping the mix as it froze so that it came out smooth.",
+      "why": "It set down the rule the industry still follows: move the mix while it freezes.",
+      "box": "churn",
+      "sources": [
+        26
+      ]
+    },
+    {
+      "year": 1777,
+      "date": "1774–1777",
+      "era": "salt",
+      "art": "word",
+      "title": "Ice cream is advertised in New York",
+      "who": "Philip Lenzi",
+      "where": "New York, British America (today USA)",
+      "country": "United States",
+      "text": "The confectioner Philip Lenzi, newly arrived from London, announced in a New York newspaper that he sold ice cream. The trade's own history gives 1774; an advertisement of 12 May 1777 is often quoted as the first in America.",
+      "why": "Ice cream had become a business on both sides of the Atlantic.",
+      "box": "",
+      "sources": [
+        4
+      ]
+    },
+    {
+      "year": 1843,
+      "date": "9 September 1843",
+      "era": "machine",
+      "art": "mixer",
+      "title": "The hand-cranked freezer is patented",
+      "who": "Nancy M. Johnson",
+      "where": "Philadelphia, USA",
+      "country": "United States",
+      "text": "Nancy Johnson received US patent 3,254 for an 'artificial freezer': a can inside a tub of ice and salt, with a crank on the lid that turned a paddle inside. Turning the handle scraped the frozen mix off the wall and stirred it. She later sold the rights. Some older accounts wrongly say she never patented it.",
+      "why": "Churning while freezing became easy, and every later ice cream machine follows her layout.",
+      "box": "salt",
+      "sources": [
+        7,
+        4
+      ],
+      "key": true
+    },
+    {
+      "year": 1851,
+      "date": "1851",
+      "era": "machine",
+      "art": "building",
+      "title": "Ice cream becomes a factory product",
+      "who": "Jacob Fussell",
+      "where": "Seven Valleys, Pennsylvania, and Baltimore, USA",
+      "country": "United States",
+      "text": "Jacob Fussell, a Baltimore milk dealer with surplus cream, began making ice cream in bulk in the winter of 1851 to 1852 and selling it wholesale. He went on to open plants in Washington, Boston and New York. Sources differ on whether the first plant counted as Seven Valleys or Baltimore.",
+      "why": "He is remembered as the father of the ice cream industry.",
+      "box": "",
+      "sources": [
+        8,
+        4
+      ],
+      "key": true
+    },
+    {
+      "year": 1851,
+      "date": "1851",
+      "era": "machine",
+      "art": "person",
+      "title": "Penny ices on a London street",
+      "who": "Carlo Gatti",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Carlo Gatti, a Swiss-Italian immigrant, set up a stand outside Charing Cross station and sold ices for a penny each, served in small shells. Street ices spread through British cities.",
+      "why": "Ice cream reached working people, not just the well-off.",
+      "box": "",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1885,
+      "date": "1885–1901",
+      "era": "machine",
+      "art": "flask",
+      "title": "The queen of ices",
+      "who": "Agnes B. Marshall",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Agnes Marshall ran a cookery school, sold a fast shallow freezer patented by her husband, and wrote The Book of Ices in 1885. Her 1888 cookery book has the earliest known recipe in English for an edible cone, the 'cornet'. In 1901 she suggested freezing ice cream with liquefied gas at the table.",
+      "why": "She saw, a century early, that the fastest freezing gives the smoothest ice cream.",
+      "box": "churn",
+      "sources": [
+        9,
+        10
+      ],
+      "key": true
+    },
+    {
+      "year": 1899,
+      "date": "1899",
+      "era": "machine",
+      "art": "piston",
+      "title": "The homogeniser",
+      "who": "Auguste Gaulin",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "Auguste Gaulin patented a machine that forced milk through fine passages under high pressure, breaking its fat into tiny globules that no longer rose as cream. He showed it at the Paris World's Fair of 1900.",
+      "why": "Homogenised mix gives the small, even fat globules that hold the air in ice cream.",
+      "box": "air",
+      "sources": [
+        24
+      ]
+    },
+    {
+      "year": 1904,
+      "date": "1903–1904",
+      "era": "machine",
+      "art": "trophy",
+      "title": "The cone, and a contest over who invented it",
+      "who": "Italo Marchiony, Ernest Hamwi and others",
+      "where": "New York and St. Louis, USA",
+      "country": "United States",
+      "text": "Italo Marchiony patented a mould for edible ice cream cups in New York in 1903. At the 1904 World's Fair in St. Louis, the waffle seller Ernest Hamwi is said to have rolled a waffle into a cone for an ice cream vendor who had run out of dishes. Several others at the fair made the same claim, and cones are described in cookery books from the 1800s.",
+      "why": "The fair made the cone popular. Who invented it is still disputed.",
+      "box": "",
+      "sources": [
+        10,
+        1
+      ],
+      "key": true
+    },
+    {
+      "year": 1907,
+      "date": "1907",
+      "era": "machine",
+      "art": "drum",
+      "title": "Kothi ice cream in Ahmedabad",
+      "who": "Vadilal Gandhi",
+      "where": "Ahmedabad, India",
+      "country": "India",
+      "text": "Vadilal Gandhi began with a soda fountain in Ahmedabad and made ice cream by the kothi method: a hand-cranked can in a tub of ice and salt. The family opened ice cream parlours in 1926. Vadilal grew into one of India's largest ice cream makers.",
+      "why": "India's ice cream industry began with the same salt-and-ice pot shown in this box.",
+      "box": "salt",
+      "sources": [
+        11
+      ],
+      "key": true
+    },
+    {
+      "year": 1920,
+      "date": "1920–1922",
+      "era": "machine",
+      "art": "block",
+      "title": "Ice cream in a chocolate coat",
+      "who": "Christian Kent Nelson",
+      "where": "Onawa, Iowa, USA",
+      "country": "United States",
+      "text": "Christian Nelson, a teacher who ran a sweet shop, worked out how to make melted chocolate stick to a block of ice cream. He sold it as the I-Scream Bar, renamed Eskimo Pie, and patented it in January 1922.",
+      "why": "It was the first of the hand-held novelties: bars, sticks and sandwiches.",
+      "box": "",
+      "sources": [
+        12
+      ]
+    },
+    {
+      "year": 1924,
+      "date": "19 August 1924",
+      "era": "machine",
+      "art": "waterdrop",
+      "title": "The ice lolly is patented",
+      "who": "Frank Epperson",
+      "where": "Oakland, California, USA",
+      "country": "United States",
+      "text": "Frank Epperson patented 'frozen confectionery' on a stick, which became the Popsicle. By his own account he had the idea in 1905, aged eleven, after leaving a drink with a stirring stick outside on a freezing night.",
+      "why": "A flavoured ice on a stick needs no dairy and no churning, only fast freezing in a mould.",
+      "box": "",
+      "sources": [
+        13
+      ]
+    },
+    {
+      "year": 1926,
+      "date": "1926",
+      "era": "machine",
+      "art": "gear",
+      "title": "Ice cream by the mile: the continuous freezer",
+      "who": "Clarence Vogt",
+      "where": "Louisville, Kentucky, USA",
+      "country": "United States",
+      "text": "Clarence Vogt built a freezer that mix could be pumped through without stopping. Blades scraped the frozen mix off a chilled tube while air was pumped in, and ice cream flowed out of the far end in seconds. It was sold from 1928 and patented in 1930.",
+      "why": "It turned ice cream from a batch product into a mass-produced one, with the air and crystal size under control.",
+      "box": "churn",
+      "sources": [
+        14,
+        4
+      ],
+      "key": true
+    },
+    {
+      "year": 1934,
+      "date": "1934–1938",
+      "era": "machine",
+      "art": "tap",
+      "title": "Soft serve",
+      "who": "Tom Carvel; J. F. McCullough and his son",
+      "where": "New York and Illinois, USA",
+      "country": "United States",
+      "text": "In 1934 Tom Carvel's ice cream truck had a flat tyre in Hartsdale, New York, and he found customers liked the softened ice cream. In 1938 the McCulloughs tested their own soft formula at a shop in Kankakee, Illinois, and served more than 1,600 portions in two hours. It became Dairy Queen.",
+      "why": "Soft serve is ice cream sold straight from the freezer barrel, before hardening.",
+      "box": "styles",
+      "sources": [
+        15
+      ],
+      "key": true
+    },
+    {
+      "year": 1940,
+      "date": "1940",
+      "era": "modern",
+      "art": "fridge",
+      "title": "Kwality opens in Delhi",
+      "who": "Pishori Lal Lamba",
+      "where": "Connaught Place, New Delhi, India",
+      "country": "India",
+      "text": "Kwality began as an ice cream shop in Connaught Place, serving among others the Allied soldiers stationed in Delhi. It grew into a national ice cream brand. Sources differ on dates: some give 1956 for the founding of the ice cream company. In 1995 the brand joined Hindustan Unilever as Kwality Wall's.",
+      "why": "It was one of the first Indian brands to sell machine-made ice cream across the country.",
+      "box": "",
+      "sources": [
+        16,
+        27
+      ]
+    },
+    {
+      "year": 1944,
+      "date": "1944",
+      "era": "modern",
+      "art": "person",
+      "title": "Havmor starts in Karachi",
+      "who": "Satish Chandra Chona",
+      "where": "Karachi, British India (today Pakistan)",
+      "country": "Pakistan",
+      "text": "Satish Chona began selling ice cream in Karachi under the name Have More. After Partition in 1947 he moved to India and restarted from a small outlet on Relief Road in Ahmedabad.",
+      "why": "The story of India's ice cream is partly a story of families who rebuilt after Partition.",
+      "box": "",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 1963,
+      "date": "1963",
+      "era": "modern",
+      "art": "thermometer",
+      "title": "A schoolboy's ice cream starts a physics puzzle",
+      "who": "Erasto Mpemba",
+      "where": "Tanganyika (today Tanzania)",
+      "country": "Tanzania",
+      "text": "Making ice cream in a school cookery class, Erasto Mpemba put his mix in the freezer while it was still hot and saw it freeze before a classmate's cooled mix. He later asked a visiting physicist, Denis Osborne, why. They published the question in 1969. Whether hot liquids can really freeze faster is still disputed.",
+      "why": "A careful observation by a student became a named effect that physicists still argue about.",
+      "box": "design",
+      "sources": [
+        18
+      ]
+    },
+    {
+      "year": 1984,
+      "date": "1984",
+      "era": "modern",
+      "art": "apple",
+      "title": "Fruit and milk, and little else",
+      "who": "Raghunandan S. Kamath",
+      "where": "Juhu, Mumbai, India",
+      "country": "India",
+      "text": "Raghunandan Kamath opened the first Natural Ice Cream shop in Juhu with a handful of staff and about ten flavours. He built his recipes on milk, sugar and real fruit rather than fruit flavouring.",
+      "why": "It showed that Indian fruits and a short ingredient list could carry a national brand.",
+      "box": "design",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 1988,
+      "date": "1988",
+      "era": "modern",
+      "art": "snowflake",
+      "title": "Ice cream flash-frozen in liquid nitrogen",
+      "who": "Curt Jones",
+      "where": "Paducah, Kentucky, USA",
+      "country": "United States",
+      "text": "Curt Jones, a microbiologist, dripped ice cream mix into liquid nitrogen at −196 °C. It froze in an instant into small beads with very fine crystals. He sold them as Dippin' Dots, which must be stored at about −40 °C.",
+      "why": "It is the fast-freezing rule taken to its limit, as Agnes Marshall had suggested in 1901.",
+      "box": "churn",
+      "sources": [
+        20,
+        9
+      ]
+    },
+    {
+      "year": 1996,
+      "date": "10 March 1996",
+      "era": "modern",
+      "art": "share",
+      "title": "A farmers' co-operative enters ice cream",
+      "who": "Gujarat Co-operative Milk Marketing Federation (Amul)",
+      "where": "Gujarat, India",
+      "country": "India",
+      "text": "Amul launched ice cream in Gujarat and took it national within a few years, with the line 'Real Milk. Real Ice Cream.' Lower prices and a scheme that helped shopkeepers buy freezers built its network quickly.",
+      "why": "It made milk fat, against vegetable fat, the selling point of Indian ice cream.",
+      "box": "styles",
+      "sources": [
+        21
+      ],
+      "key": true
+    },
+    {
+      "year": 2011,
+      "date": "2011",
+      "era": "modern",
+      "art": "scales",
+      "title": "India's rule book: ice cream against frozen dessert",
+      "who": "Food Safety and Standards Authority of India",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "The Food Safety and Standards regulations of 2011 define ice cream, kulfi and softy as frozen milk products with at least 10% milk fat, 36% total solids and 525 grams to the litre. A separate standard covers frozen desserts, which may use vegetable oil or fat and must be labelled as such.",
+      "why": "The name on the pack now tells you what kind of fat is inside, and the weight rule limits the air.",
+      "box": "air",
+      "sources": [
+        22
+      ],
+      "key": true
+    },
+    {
+      "year": 2017,
+      "date": "2017",
+      "era": "modern",
+      "art": "word",
+      "title": "The frozen dessert case",
+      "who": "Hindustan Unilever and Vadilal against GCMMF (Amul)",
+      "where": "Bombay High Court, Mumbai, India",
+      "country": "India",
+      "text": "An Amul advertisement urged parents to choose 'real milk' ice cream over frozen desserts made with vegetable oil. Hindustan Unilever, later joined by Vadilal, sued for disparagement. The court held that the advertisement ran down the whole frozen dessert category and restrained it. On appeal Amul was allowed to air it without the disputed scenes.",
+      "why": "A court had to rule on how one legal food category may talk about another.",
+      "box": "styles",
+      "sources": [
+        23
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Ice houses for summer ice",
+      "value": "c. 400 BCE",
+      "who": "Persian yakhchāls, Iran"
+    },
+    {
+      "label": "Written account of cooling with a salt (often cited)",
+      "value": "13th century",
+      "who": "Ibn Abi Usaybi'a, Syria"
+    },
+    {
+      "label": "Ice cream recipe in English",
+      "value": "1718",
+      "who": "Mary Eales, England"
+    },
+    {
+      "label": "Book devoted to ices",
+      "value": "1768",
+      "who": "M. Emy, France"
+    },
+    {
+      "label": "Patent for a hand-cranked freezer",
+      "value": "1843",
+      "who": "Nancy Johnson, USA"
+    },
+    {
+      "label": "Wholesale ice cream factory",
+      "value": "1851",
+      "who": "Jacob Fussell, USA"
+    },
+    {
+      "label": "Recipe in English for an edible cone",
+      "value": "1888",
+      "who": "Agnes Marshall, England"
+    },
+    {
+      "label": "Continuous freezer",
+      "value": "1926",
+      "who": "Clarence Vogt, USA"
+    }
+  ],
+  "people": [
+    {
+      "name": "Antonio Latini",
+      "life": "1642 – 1690s",
+      "role": "Steward and cookery writer",
+      "from": "Italy",
+      "note": "Printed sorbetti recipes in Naples, including one made with milk."
+    },
+    {
+      "name": "Mary Eales",
+      "life": "active 1718",
+      "role": "Confectioner",
+      "from": "England",
+      "note": "Published the first ice cream recipe in English."
+    },
+    {
+      "name": "Nancy Johnson",
+      "life": "1794 – 1890",
+      "role": "Inventor",
+      "from": "USA",
+      "note": "Patented the hand-cranked ice cream freezer in 1843."
+    },
+    {
+      "name": "Jacob Fussell",
+      "life": "1819 – 1912",
+      "role": "Dairyman",
+      "from": "USA",
+      "note": "Turned surplus cream into the first wholesale ice cream business."
+    },
+    {
+      "name": "Agnes Marshall",
+      "life": "1852 – 1905",
+      "role": "Cook, teacher and writer",
+      "from": "England",
+      "note": "Wrote The Book of Ices, described the edible cone, and proposed freezing with liquefied gas."
+    },
+    {
+      "name": "Auguste Gaulin",
+      "life": "active 1899 – 1909",
+      "role": "Engineer",
+      "from": "France",
+      "note": "Invented the homogeniser that breaks milk fat into tiny globules."
+    },
+    {
+      "name": "Vadilal Gandhi",
+      "life": "active 1907",
+      "role": "Soda fountain owner",
+      "from": "India",
+      "note": "Began making kothi ice cream in Ahmedabad, the start of the Vadilal brand."
+    },
+    {
+      "name": "Clarence Vogt",
+      "life": "active 1926 – 1931",
+      "role": "Engineer",
+      "from": "USA",
+      "note": "Built the continuous scraped-surface freezer."
+    },
+    {
+      "name": "Erasto Mpemba",
+      "life": "born c. 1950",
+      "role": "Student, later game officer",
+      "from": "Tanzania",
+      "note": "Noticed his hot ice cream mix freezing first, and asked a physicist why."
+    },
+    {
+      "name": "Raghunandan Kamath",
+      "life": "died 2024",
+      "role": "Ice cream maker",
+      "from": "India",
+      "note": "Founded Natural Ice Cream in Mumbai in 1984, built on fresh fruit."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "At 100% overrun, half of every scoop is air. In India a litre of ice cream must still weigh at least 525 grams.",
+    "One gram of ice cream holds about 8 million ice crystals, 8 million air bubbles and over a million million fat globules.",
+    "Even at −16 °C, roughly a quarter of the water in ice cream is still liquid. That is why a spoon goes in.",
+    "Ice and salt can reach −21 °C. The Ain-i-Akbari records Akbar's court chilling water with saltpetre more than 400 years ago.",
+    "There is no evidence that Marco Polo brought ice cream from China or that Catherine de' Medici took it to France. Both stories first appear in the 1800s."
+  ],
+  "sources": [
+    {
+      "title": "Yakhchāl",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yakhch%C4%81l"
+    },
+    {
+      "title": "Ice cream",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ice_cream"
+    },
+    {
+      "title": "Kulfi",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kulfi"
+    },
+    {
+      "title": "Ain-i-Akbari, vol. 1, Ain 22: The Abdar Khana (trans. H. Blochmann)",
+      "publisher": "Abu'l-Fazl 'Allami; text hosted by F. W. Pritchett, Columbia University",
+      "url": "https://franpritchett.com/00litlinks/abulfazl/ain_1_1_22.html"
+    },
+    {
+      "title": "Ice Cream History and Folklore",
+      "publisher": "H. D. Goff, Ice Cream Technology e-Book, University of Guelph",
+      "url": "https://books.lib.uoguelph.ca/icecreamtechnologyebook/chapter/ice-cream-history-and-folklore/"
+    },
+    {
+      "title": "Antonio Latini",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Antonio_Latini"
+    },
+    {
+      "title": "Gelato",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gelato"
+    },
+    {
+      "title": "Nancy Johnson (inventor)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nancy_Johnson_(inventor)"
+    },
+    {
+      "title": "Jacob Fussell",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jacob_Fussell"
+    },
+    {
+      "title": "Agnes Marshall",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Agnes_Marshall"
+    },
+    {
+      "title": "Ice cream cone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ice_cream_cone"
+    },
+    {
+      "title": "Vadilal",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vadilal"
+    },
+    {
+      "title": "Eskimo Pie",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eskimo_Pie"
+    },
+    {
+      "title": "The Popsicle patent (Prologue Magazine, Spring 2005)",
+      "publisher": "U.S. National Archives",
+      "url": "https://www.archives.gov/publications/prologue/2005/spring/popsicle"
+    },
+    {
+      "title": "Continuous freezers",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Continuous_freezers"
+    },
+    {
+      "title": "Soft serve",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Soft_serve"
+    },
+    {
+      "title": "Delhi's iconic Kwality restaurant reopens",
+      "publisher": "The Week",
+      "url": "https://www.theweek.in/leisure/lifestyle/2018/12/08/delhi-iconic-kwality-restaurant-reopens-nostalgia-drenched-makeover.amp.html"
+    },
+    {
+      "title": "Havmor Ice Cream",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Havmor_Ice_Cream"
+    },
+    {
+      "title": "Mpemba effect",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mpemba_effect"
+    },
+    {
+      "title": "Natural Ice Cream",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Natural_Ice_Cream"
+    },
+    {
+      "title": "Dippin' Dots",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dippin%27_Dots"
+    },
+    {
+      "title": "Throwback: the story behind Amul's Real Milk, Real Ice Cream campaign",
+      "publisher": "Social Samosa",
+      "url": "https://www.socialsamosa.com/2021/06/throwback-amul-story-real-milk-real-ice-cream-campaign"
+    },
+    {
+      "title": "Ice cream and frozen dessert: standards 2.1.14 and 2.1.15 (myth buster with the regulation text)",
+      "publisher": "Food Safety and Standards Authority of India",
+      "url": "https://www.fssai.gov.in/upload/uploadfiles/files/Myth%20buster%20on%20Ice%20cream%20and%20frozen%20dessert%20.pdf"
+    },
+    {
+      "title": "Comparative advertising and product disparagement: Hindustan Unilever Ltd v. Gujarat Cooperative Milk Marketing Federation",
+      "publisher": "Mondaq",
+      "url": "https://mondaq.com/india/advertising-marketing-branding/703972/case-study-comparative-advertising-and-product-disparagement-in-the-light-of-hindustan-unilever-limited-vs-gujarat-cooperative-milk-marketing-federation"
+    },
+    {
+      "title": "From World Fair to world class: Gaulin homogenizers mark 125 years",
+      "publisher": "SPX Flow",
+      "url": "https://www.spxflow.com/news-releases/from-world-fair-to-world-class-gaulin-homogenizers-mark-125-years-of-innovation/"
+    },
+    {
+      "title": "Ice Cream Technology e-Book (structure, freezing, overrun, shelf life)",
+      "publisher": "H. D. Goff, University of Guelph",
+      "url": "https://books.lib.uoguelph.ca/icecreamtechnologyebook/"
+    },
+    {
+      "title": "Can I have a taste of your ice-cream? (on Emy's 1768 treatise)",
+      "publisher": "Victoria and Albert Museum",
+      "url": "https://www.vam.ac.uk/blog/creating-new-europe-1600-1800-galleries/can-i-have-a-taste-of-your-ice-cream"
+    },
+    {
+      "title": "Kwality Wall's",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kwality_Wall%27s"
+    },
+    {
+      "title": "Cooling off with physics",
+      "publisher": "Physics World",
+      "url": "https://physicsworld.com/a/cooling-off-with-physics/"
+    },
+    {
+      "title": "Effects of processing conditions and formulation on ice crystallization in a scraped surface freezer (Drewett and Hartel)",
+      "publisher": "AIChE Annual Meeting 2005",
+      "url": "https://www.aiche.org/conferences/aiche-annual-meeting/2005/proceeding/paper/434h-effects-processing-conditions-and-formulation-on-ice-crystallization-scraped-surface-freezer-0"
+    },
+    {
+      "title": "Cold-stimulus headache",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cold-stimulus_headache"
+    },
+    {
+      "title": "Ice crystal structure and the freezing curve (Structure from the ice crystals)",
+      "publisher": "H. D. Goff, University of Guelph",
+      "url": "https://books.lib.uoguelph.ca/icecreamtechnologyebook/chapter/structure-from-the-ice-crystals/"
+    }
+  ]
+}

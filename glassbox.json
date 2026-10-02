@@ -1,0 +1,108 @@
+{
+  "slug": "icecreamclear",
+  "box": 118,
+  "date": "2026-10-08",
+  "title": "IceCreamClear",
+  "question": "How is ice cream made?",
+  "hook": "A scoop of ice cream is half air. The rest is millions of ice crystals, tiny balls of fat and a syrup that never freezes. Pull a scoop apart, chill a pot with salt and ice, spin the scraper blades, whip in the air, design your own scoop, and see why kulfi melts slowly and a thawed tub turns icy.",
+  "thumbText": "HOW ICE CREAM IS MADE",
+  "field": "chemistry",
+  "minutes": 15,
+  "tags": [
+    "ice cream",
+    "kulfi",
+    "freezing point depression",
+    "overrun",
+    "ice crystals",
+    "emulsion",
+    "foam",
+    "gelato",
+    "soft serve",
+    "food science",
+    "dairy",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A scoop is four things at once",
+      "text": "Under a microscope, ice cream is ice crystals about 50 micrometres across, air bubbles a little bigger, fat globules about 1 micrometre across, and a thick sugar syrup that is still liquid. By volume a typical scoop is about half air, a quarter to a third ice, a twentieth fat, and the rest syrup."
+    },
+    {
+      "title": "Salt makes ice colder than ice",
+      "text": "Sweet mix only starts to freeze at about −2.6 °C, so plain ice at 0 °C can never freeze it. Salt makes the ice melt, and melting takes heat from the pot itself. Ice and salt can reach −21 °C. That is how a hand-cranked pot and a kulfi matka work."
+    },
+    {
+      "title": "Freeze fast and scrape the wall",
+      "text": "Big crystals feel icy: the tongue notices them above about 50 micrometres. A freezer barrel chilled to about −30 °C starts crystals quickly, and spinning blades scrape them off the wall as tiny seeds. The ice cream leaves at about −5 °C with half its water frozen, then is hardened in a blast freezer."
+    },
+    {
+      "title": "Half of it is air",
+      "text": "The dasher whips air in as it scrapes. Overrun is the extra volume: at 100% the mix has doubled, so half of every scoop is air. Clumps of part-solid milk fat brace each bubble. In India, FSSAI requires a litre of ice cream to weigh at least 525 grams, which caps the air."
+    },
+    {
+      "title": "Sugar is the antifreeze",
+      "text": "Sugar lowers the freezing point, and as ice forms the syrup left behind gets stronger. So the water never all freezes: about a quarter is still liquid at −14 °C. That is why a spoon goes in. Sugar, fat, air and serving temperature together decide how firm, smooth and long-lasting a scoop is."
+    },
+    {
+      "title": "Kulfi, gelato and the refreeze problem",
+      "text": "Kulfi is thick, slow-boiled milk frozen without churning, so it holds almost no air and melts slowly. Gelato has less fat and air, and soft serve is never hardened. A product made with vegetable fat must be labelled frozen dessert. Each time a tub warms up, its small crystals melt and the big ones grow, so it turns icy."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Overrun",
+      "def": "The air whipped into ice cream, given as extra volume. 100% overrun means the mix doubled in volume."
+    },
+    {
+      "term": "Freezing-point depression",
+      "def": "Dissolved sugar or salt lowers the temperature at which water freezes."
+    },
+    {
+      "term": "Eutectic point",
+      "def": "The lowest freezing point of a salt and water mixture: −21.1 °C at 23.3% common salt."
+    },
+    {
+      "term": "Scraped-surface freezer",
+      "def": "A chilled barrel whose blades shave ice off the wall as fast as it forms, while a dasher whips in air."
+    },
+    {
+      "term": "Partial coalescence",
+      "def": "Part-solid fat globules sticking together in clumps without merging. The clumps hold the air bubbles."
+    },
+    {
+      "term": "Freeze concentration",
+      "def": "As ice forms, the sugar is left in less water, so the remaining syrup gets ever harder to freeze."
+    },
+    {
+      "term": "Recrystallisation",
+      "def": "Small ice crystals vanishing and large ones growing during storage, which makes old ice cream icy."
+    },
+    {
+      "term": "Kulfi",
+      "def": "Slow-reduced, sweetened milk frozen in moulds without churning. Dense, with almost no air."
+    },
+    {
+      "term": "Frozen dessert",
+      "def": "Under FSSAI rules, a product like ice cream made with vegetable fat instead of milk fat. It must be labelled as such."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "icecreamclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

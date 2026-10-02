@@ -1,0 +1,126 @@
+{
+  "slug": "icecreamclear",
+  "box": 118,
+  "question": "How is ice cream made?",
+  "url": "https://glassbox.how/e/icecreamclear/",
+  "app": "https://glassbox.how/icecreamclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "2,400 years from desert ice houses to a factory barrel that freezes a scoop in thirty seconds.\n\n1590: Saltpetre, mountain ice and the Mughal court\n1650: Salt on ice: the freezing mixture reaches Europe's kitchens\n1694: Sorbetti in print, one of them made with milk\n1843: The hand-cranked freezer is patented\n1851: Ice cream becomes a factory product\n1885: The queen of ices\n\nThe full story, with 29 moments, sources and charts: glassbox.how/e/icecreamclear/history (link in bio)\n\nThen play with how it works: glassbox.how/icecreamclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #icecream #kulfi #freezingpointdepression #overrun #icecrystals #emulsion #history",
+      "youtube": {
+        "title": "The history of ice cream in 45 seconds #shorts",
+        "description": "2,400 years from desert ice houses to a factory barrel that freezes a scoop in thirty seconds.\n\n1590 · Saltpetre, mountain ice and the Mughal court (Abu'l-Fazl, at Akbar's court)\n1650 · Salt on ice: the freezing mixture reaches Europe's kitchens (Cooks and natural philosophers)\n1694 · Sorbetti in print, one of them made with milk (Antonio Latini)\n1843 · The hand-cranked freezer is patented (Nancy M. Johnson)\n1851 · Ice cream becomes a factory product (Jacob Fussell)\n1885 · The queen of ices (Agnes B. Marshall)\n\n▶ Full history: https://glassbox.how/e/icecreamclear/history/\n▶ Play with it: https://glassbox.how/e/icecreamclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How is ice cream made?\n\nA scoop of ice cream is half air. The rest is millions of ice crystals, tiny balls of fat and a syrup that never freezes. Pull a scoop apart, chill a pot with salt and ice, spin the scraper blades, whip in the air, design your own scoop, and see why kulfi melts slowly and a thawed tub turns icy.\n\n→ A scoop of ice cream is four things at once: ice crystals, air bubbles, fat globules and a syrup that never freezes.\n→ By volume it is about half air, a quarter ice, a twentieth fat, and the rest sweet liquid syrup.\n→ Sweet mix only starts to freeze at about −2.6 °C, so plain ice at 0 °C can never freeze it.\n→ Salt makes the ice melt, and melting takes heat: the pot chills itself towards −21 °C and the mix freezes.\n→ Blades scrape ice off a wall at −30 °C, scattering millions of tiny crystals smaller than 50 micrometres.\n\nPlay with it yourself. It's free and open source: glassbox.how/icecreamclear (link in bio)\n\nBox No. 118 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #icecream #kulfi #freezingpointdepression #overrun #icecrystals #emulsion #foam #gelato #softserve",
+    "carousel": "Swipe through: How is ice cream made?\n\nA scoop of ice cream is half air. The rest is millions of ice crystals, tiny balls of fat and a syrup that never freezes. Pull a scoop apart, chill a pot with salt and ice, spin the scraper blades, whip in the air, design your own scoop, and see why kulfi melts slowly and a thawed tub turns icy.\n\nSave this for later, then play with the interactive version at glassbox.how/icecreamclear (link in bio).\n\nBox No. 118 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #icecream #kulfi #freezingpointdepression #overrun #icecrystals #emulsion",
+    "youtube": {
+      "title": "How is ice cream made? #shorts",
+      "description": "A scoop of ice cream is half air. The rest is millions of ice crystals, tiny balls of fat and a syrup that never freezes. Pull a scoop apart, chill a pot with salt and ice, spin the scraper blades, whip in the air, design your own scoop, and see why kulfi melts slowly and a thawed tub turns icy.\n\n▶ Play with it: https://glassbox.how/e/icecreamclear/\n⌘ Source code (MIT): https://github.com/bdeeps/icecreamclear\n\nBox No. 118 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How is ice cream made? (interactive explainer)",
+      "description": "A scoop of ice cream is half air. The rest is millions of ice crystals, tiny balls of fat and a syrup that never freezes. Pull a scoop apart, chill a pot with salt and ice, spin the scraper blades, whip in the air, design your own scoop, and see why kulfi melts slowly and a thawed tub turns icy.\n\n▶ Play with the interactive version: https://glassbox.how/e/icecreamclear/\n⌘ Source code (MIT): https://github.com/bdeeps/icecreamclear\n\nIn this video:\n• A scoop is four things at once. Under a microscope, ice cream is ice crystals about 50 micrometres across, air bubbles a little bigger, fat globules about 1 micrometre across, and a thick sugar syrup that is still liquid.\n• Salt makes ice colder than ice. Sweet mix only starts to freeze at about −2.6 °C, so plain ice at 0 °C can never freeze it.\n• Freeze fast and scrape the wall. Big crystals feel icy: the tongue notices them above about 50 micrometres.\n• Half of it is air. The dasher whips air in as it scrapes.\n• Sugar is the antifreeze. Sugar lowers the freezing point, and as ice forms the syrup left behind gets stronger.\n• Kulfi, gelato and the refreeze problem. Kulfi is thick, slow-boiled milk frozen without churning, so it holds almost no air and melts slowly.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How is ice cream made?\n\nA scoop of ice cream is half air.\n\nPlay with it: https://glassbox.how/e/icecreamclear/",
+    "linkedin": "How is ice cream made?\n\nA scoop of ice cream is half air. The rest is millions of ice crystals, tiny balls of fat and a syrup that never freezes. Pull a scoop apart, chill a pot with salt and ice, spin the scraper blades, whip in the air, design your own scoop, and see why kulfi melts slowly and a thawed tub turns icy.\n\n1. A scoop is four things at once\n2. Salt makes ice colder than ice\n3. Freeze fast and scrape the wall\n4. Half of it is air\n5. Sugar is the antifreeze\n6. Kulfi, gelato and the refreeze problem\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 118 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/icecreamclear/\nCode: https://github.com/bdeeps/icecreamclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-02T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-02T06:44:03.229Z"
+}
